@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c28cb720-006c-435a-87ae-d49bdefd0a11" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ezdock-master" />
+  </component>
+  <component name="ProjectId" id="1QKRqpYPWX3hR8PXKg3srksUfNc" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\nodejs\node.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/views" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ezdock-master\application\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c28cb720-006c-435a-87ae-d49bdefd0a11" name="Default" comment="" />
+      <created>1567356813051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567356813051</updated>
+      <workItem from="1567356814487" duration="2034000" />
+      <workItem from="1567358882194" duration="910000" />
+      <workItem from="1567392701259" duration="897000" />
+      <workItem from="1567396437040" duration="1799000" />
+      <workItem from="1567398271254" duration="1873000" />
+      <workItem from="1567401417367" duration="1882000" />
+      <workItem from="1567403324015" duration="1807000" />
+      <workItem from="1567405155448" duration="130000" />
+      <workItem from="1567407440631" duration="1799000" />
+      <workItem from="1567409261700" duration="1985000" />
+      <workItem from="1567411269060" duration="1803000" />
+      <workItem from="1567413096965" duration="907000" />
+      <workItem from="1567434382086" duration="1466000" />
+      <workItem from="1567436296499" duration="1894000" />
+      <workItem from="1567440111353" duration="1810000" />
+      <workItem from="1567441942532" duration="1820000" />
+      <workItem from="1567443796254" duration="1797000" />
+      <workItem from="1567446027154" duration="1728000" />
+      <workItem from="1567447908818" duration="592000" />
+      <workItem from="1567482342237" duration="1461000" />
+      <workItem from="1567484237780" duration="1811000" />
+      <workItem from="1567486108550" duration="1508000" />
+      <workItem from="1567487956894" duration="1821000" />
+      <workItem from="1567493003734" duration="1577000" />
+      <workItem from="1567494740160" duration="1795000" />
+      <workItem from="1567496625815" duration="1014000" />
+      <workItem from="1567498459407" duration="1990000" />
+      <workItem from="1567500507240" duration="531000" />
+      <workItem from="1567517501465" duration="19794000" />
+      <workItem from="1567564216522" duration="8486000" />
+      <workItem from="1567578747181" duration="7547000" />
+      <workItem from="1567598749568" duration="37507000" />
+      <workItem from="1567772594816" duration="1683000" />
+      <workItem from="1567864752041" duration="70000" />
+      <workItem from="1567864846054" duration="20986000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+</project>
